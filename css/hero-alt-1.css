@@ -7,12 +7,13 @@
 		background-color: lightblue;
 		padding: 40px;
 		text-align: center;
-
+		background-image: url("http://40.media.tumblr.com/1c7ad137dc17092a17b36a6f39ac184f/tumblr_n5w1ygIiVU1qdd6mxo1_500.jpg");
+   		background-repeat: repeat;
 	}
 
 	h1 {
 		font-size: 90px;
-		color: goldenrod;
+		color: white;
 		text-shadow: 0 4px 20px black;
 	}
 
