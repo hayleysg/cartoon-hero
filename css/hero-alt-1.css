@@ -56,7 +56,7 @@
 		list-style: decimal-leading-zero;
 	}
 
-	footer ol li {
+	footer ul li {
 		display: inline;
 		margin: 0 5px;
 		text-align: center;
