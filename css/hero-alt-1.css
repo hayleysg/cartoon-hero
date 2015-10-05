@@ -52,7 +52,8 @@
 	}
 
 	ul {
-		text-align: center;
+		margin: 0px;
+		list-style: decimal-leading-zero;
 	}
 
 	footer ul li {
